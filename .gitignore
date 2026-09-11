@@ -1,0 +1,12 @@
+assets/external/
+.states
+.web
+*.db
+.venv/
+__pycache__/
+*.py[cod]
+.reflex/
+.web/
+.states/
+frontend.zip
+.env
